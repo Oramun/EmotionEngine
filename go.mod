@@ -1,3 +1,3 @@
-module main.go
+module emotionengine
 
 go 1.21.6
